@@ -51,4 +51,5 @@ print ()
 5. 📊 plt.show() displays the chart
 
 ### Screenshots 📸
+[![Student Marks Bar Chart](https://github.com/owaiskazmi/Matplotlib-Visuals/blob/main/Screenshots/graph.png)](https://github.com/owaiskazmi/Matplotlib-Visuals/blob/main/Screenshots/graph.png)
 
